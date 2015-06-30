@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://git.oschina.net/dlrjeb/jmxhoa/raw/master/DLOA_iPhone.ipa</string>
+					<string>http://git.oschina.net/dlrjeb/jmxhoa/raw/master/DLOA_HD.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://git.oschina.net/dlrjeb/jmxhoa/raw/master/iPhoneIcon/appicon_114.png</string>
+					<string>http://git.oschina.net/dlrjeb/jmxhoa/raw/master/iPhoneIcon/appicon_114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://git.oschina.net/dlrjeb/jmxhoa/raw/master/iPhoneIcon/appicon_57.png</string>
+					<string>http://git.oschina.net/dlrjeb/jmxhoa/raw/master/iPhoneIcon/appicon_72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gddlkj.projects.dloaiphone</string>
+				<string>com.gddlkj.projects.dloaipad</string>
 				<key>bundle-version</key>
-				<string>1.081</string>
+				<string>1.238</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>GDDLKJ</string>
 				<key>title</key>
-				<string>DLOA_iPhone</string>
+				<string>DLOA_HD</string>
 			</dict>
 		</dict>
 	</array>
