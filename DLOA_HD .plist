@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/GDDLKJ/jmxhoa/master/iPhoneIcon/appicon_57.png</string>
+					<string>https://raw.githubusercontent.com/GDDLKJ/jmxhoa/master/iPhoneIcon/appicon_72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gddlkj.projects.dgcaipad</string>
+				<string>com.gddlkj.projects.dloaipad</string>
 				<key>bundle-version</key>
-				<string>1.236</string>
+				<string>1.238</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>DevelopedByGDDDLKJ</string>
+				<string>GDDLKJ</string>
 				<key>title</key>
-				<string>CAOA_HD</string>
+				<string>DLOA_HD</string>
 			</dict>
 		</dict>
 	</array>
