@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gddlkj.projects.dgca</string>
+				<string>com.gddlkj.projects.dlIPhoneOA</string>
 				<key>bundle-version</key>
 				<string>1.081</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>DevelopedByGDDDLKJ</string>
 				<key>title</key>
-				<string>DLOA_iPhone</string>
+				<string>新会OA</string>
 			</dict>
 		</dict>
 	</array>
